@@ -1,4 +1,4 @@
-# TEXT_GENERATION_UISNG_HUGGINGFACE_LANGCHAIN
+# TEXT_GENERATION_USNG_HUGGINGFACE_LANGCHAIN
 Hugging Face offers models like BERT and GPT for text generation. LangChain allows building applications with large language models by chaining components. Together, they enable efficient text generation workflows.
 # Text Generation Project
 
